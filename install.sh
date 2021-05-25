@@ -15,4 +15,4 @@ PURPLE='\033[35m'
 echo "Hacking Tools  ";                                       
  
 sudo apt install git
-wget http://github.com/Timebaby123/tools;
+gitclone http://github.com/Timebaby123/tools;
